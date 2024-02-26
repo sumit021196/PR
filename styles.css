@@ -7,18 +7,7 @@ body {
   height: auto;
 }
 
-.container {
-  background-color: #7a7af1;
-  backdrop-filter: blur(5px);
-  display: flex;
-  border: 1px solid black;
-  height: 100px;
-  min-width: 90vw;
-  margin-bottom: 1rem;
-  justify-content: space-around;
-  align-items: center;
-  gap: 1em;
-}
+
 
 
 .container span {
